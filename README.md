@@ -2,4 +2,6 @@
 
 ### MCMC is a sampling method used to obtain probability distribution functions (pdfs) based on given information. The core idea is to simulate draws from pdfs to allow the Markov Chain to grow, ensuring that the next sampling point depends on the current sampling point.
 
+### The data is in the file 'spam-or-ham.zip'
+
 ### Key Concepts: Stationary Distribution: If the sampling probability remains the same after many iterations, the distribution reaches a stationary state. Detailed Balance Condition: Ensures that the Markov Chain has a stationary distribution that converges to the target distribution 𝑝(𝑥).
